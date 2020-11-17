@@ -3,17 +3,19 @@
 ## Notas
 
 1. problemas 
-* asi
-2. problemas 2
+* asi :rocket:
+2. problemas  :tada:
 3. problemas 3
  * todo 
  * se puede 
  * manejar asi
  
  
-**Te pongo unas formas de usar el marge**
-_El margue se usa con la agrupacion de diversos caracteres_
-*se pude usar*
+## Estilos de letras
+* **Te pongo unas formas de usar el marge**
+ * _El margue se usa con la agrupacion de diversos caracteres (__Cursiva__)_
+ * *se pude usar (__Cursiva__)*
+* __negritas__  
 
 tenemos que realizar esta perra tesis con mucho cuidado y cariño :D
 > Noel Sanchez
